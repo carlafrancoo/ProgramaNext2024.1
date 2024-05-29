@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /*
  Create a program that, based on a temperature in degrees Celsius provided by the user, convert it and display it to
- 
  Kelvin, Réaumur, Rankine and Fahrenheit, following the formulas:
 
 	 Fahrenheit = Celsius * 1.8 + 32;
