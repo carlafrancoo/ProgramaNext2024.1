@@ -19,7 +19,6 @@ public class Exercise3 {
 		System.out.print("Enter the value of the time: ");
 		time = input.nextDouble();
 		
-
         horses = (mass * height / time) / 745.6999;
 
         System.out.println("The amount of horses needed is " + horses);
